@@ -10,14 +10,14 @@ public class Lab2_1
         }
         return output;
     }
-    public static void main(String[] args) 
-    {
-    Lab2_1 obj = new Lab2_1();
-    int[] A = {1, 2, 3, 4};
-    int[] reversed = obj.reverse(A);
-    for (int i = 0; i < reversed.length; i++)
-    {
-    System.out.print(reversed[i] + " ");
-    }
-    }
+    // public static void main(String[] args) 
+    // {
+    // Lab2_1 obj = new Lab2_1();
+    // int[] A = {1, 2, 3, 4};
+    // int[] reversed = obj.reverse(A);
+    // for (int i = 0; i < reversed.length; i++)
+    // {
+    // System.out.print(reversed[i] + " ");
+    // }
+    // }
 }
